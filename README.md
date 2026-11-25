@@ -12,17 +12,11 @@ I enjoy exploring self-hosted services, home networks, and thoughtful design. I 
 
 ### What I explore
 
-**◈ Systems**  
-Linux · Debian · OpenWrt · ImmortalWrt
-
-**◈ Self-hosting**  
-Docker · Docker Compose · NAS · Home Lab
-
-**◈ Networking**  
-Home networks · DNS · Routing
-
-**◈ Smart home**  
-Home Assistant · Automation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./interests-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./interests-light.svg" />
+  <img src="./interests-light.svg" width="100%" alt="Systems: Linux, Debian, OpenWrt, ImmortalWrt. Self-hosting: Docker, Docker Compose, NAS, Home Lab. Networking: Home networks, DNS, Routing. Smart home: Home Assistant, Automation." />
+</picture>
 
 ---
 
@@ -34,7 +28,7 @@ I appreciate thoughtfully crafted open-source projects, the freedom to explore, 
 
 <div align="center">
   <br />
-  ♠
+  &#9824;
   <br /><br />
   <i>Stay curious. Make things a little better.</i>
   <br /><br />
