@@ -4,18 +4,27 @@
 
 ### A little about me
 
-I enjoy exploring how technology can make everyday life a little better. From self-hosted services and home networks to the small details of a well-designed interface, I like understanding how things work and making them my own.
+Curious about technology, drawn to simplicity.
 
-I value simplicity, reliability, and thoughtful design.
+I enjoy exploring self-hosted services, home networks, and thoughtful design. I value reliability and the little details that make a difference.
+
+---
 
 ### What I explore
 
-| Area | Interests |
-| :--- | :--- |
-| **Systems** | Linux · Debian · OpenWrt · ImmortalWrt |
-| **Self-hosting** | Docker · Docker Compose · NAS · Home Lab |
-| **Networking** | Home networks · DNS · Routing |
-| **Smart home** | Home Assistant · Automation |
+**◈ Systems**  
+Linux · Debian · OpenWrt · ImmortalWrt
+
+**◈ Self-hosting**  
+Docker · Docker Compose · NAS · Home Lab
+
+**◈ Networking**  
+Home networks · DNS · Routing
+
+**◈ Smart home**  
+Home Assistant · Automation
+
+---
 
 ### Around open source
 
@@ -24,5 +33,9 @@ I appreciate thoughtfully crafted open-source projects, the freedom to explore, 
 ---
 
 <div align="center">
-  <sub>Stay curious. Make things a little better.</sub>
+  <br />
+  ♠
+  <br /><br />
+  <i>Stay curious. Make things a little better.</i>
+  <br /><br />
 </div>
