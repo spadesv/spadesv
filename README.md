@@ -13,13 +13,13 @@ I value simplicity, reliability, and thoughtful design.
 | Area | Interests |
 | :--- | :--- |
 | **Systems** | Linux · Debian · OpenWrt · ImmortalWrt |
-| **Self-hosting** | Docker · Docker Compose · NAS · Home lab |
+| **Self-hosting** | Docker · Docker Compose · NAS · Home Lab |
 | **Networking** | Home networks · DNS · Routing |
 | **Smart home** | Home Assistant · Automation |
 
 ### Around open source
 
-I enjoy discovering useful open-source projects and occasionally helping improve the things I use. One recent experience was working on [Simplified Chinese localization for EinVault](https://github.com/davefatkin/EinVault/pull/450).
+I appreciate thoughtfully crafted open-source projects, the freedom to explore, and the spirit of sharing knowledge.
 
 ---
 
